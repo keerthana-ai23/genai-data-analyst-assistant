@@ -4,7 +4,7 @@ An AI-powered analytics application that automates exploratory data analysis, da
 
 ## Application Demo
 
-![Dashboard](screenshots/image2.png)
+![Dashboard](screenshots/image1.png)
 
 ## Features
 
