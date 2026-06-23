@@ -1,22 +1,22 @@
-# GenAI-Powered Data Analyst Assistant
+# 🤖 GenAI-Powered Data Analyst Assistant
 
-## Overview
+An AI-powered analytics application that automates exploratory data analysis, data quality assessment, visualization, and business insight generation using Google Gemini.
 
-An AI-powered analytics application that enables users to upload CSV datasets, perform automated exploratory data analysis, visualize trends, evaluate data quality, and receive AI-generated business insights using Google's Gemini model.
+## Application Demo
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Features
 
-* CSV Upload
-* Dataset Preview
-* Missing Value Analysis
-* Duplicate Detection
-* Dataset Health Score
-* Statistical Summary
-* Histograms and Box Plots
-* Correlation Heatmap
-* AI-Powered Dataset Summary
-* Natural Language Dataset Q&A
-* Downloadable Analysis Report
+- CSV Upload
+- Missing Value Analysis
+- Duplicate Detection
+- Dataset Health Score
+- Statistical Summary
+- Correlation Heatmap
+- AI Dataset Summary
+- Natural Language Q&A
+- Downloadable Reports
 
 ## Tech Stack
 
